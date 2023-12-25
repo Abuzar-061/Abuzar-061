@@ -6,7 +6,7 @@ Hello, I'm Muhammad Abuzar, welcome to my Github. What a pleasure it must be for
 So, I am a software engineer by trade currently working at [ContentArcade](https://www.contentarcade.com/) predominantly writing Python and Angular.
 - 📗 I write blogs on my personal blogsite at :) *Secret*  
 - 💬 Portfolio Website [Hehe.com](https://abuzar-061.github.io/CV/Project-Portfolio.html)
-- 📆 Always working on your personal Projects :)  
+- 📆 Always working on personal Projects :)  
 - 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Remove and Improve your grammar via grammarin website!
 
 
