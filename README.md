@@ -7,7 +7,7 @@ So, I am a software engineer by trade currently working at [ContentArcade](https
 - 📗 I write blogs on my personal blogsite at :) *Secret*  
 - 💬 Portfolio Website [Hehe.com](https://abuzar-061.github.io/CV/Project-Portfolio.html)
 - 📆 Always working on personal Projects :)  
-- 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Remove and Improve your grammar via grammarin website!
+- 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) -Improve your grammar via grammarin website!
 
 
 
