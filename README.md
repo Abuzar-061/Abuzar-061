@@ -1,5 +1,5 @@
 
-![Internet not working gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fanime-sharingen-madara-eye-gif-anime-sharingen-madara-eye-discover-and-share-gifs--867154103234711097%2F&psig=AOvVaw2qaOdmg8vpwSZmnXoJTDTT&ust=1706340168431000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCbr9DC-oMDFQAAAAAdAAAAABAD)
+![Internet not working gif](https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif)
 
 Hello, I'm Muhammad Abuzar, welcome to my Github. What a pleasure it must be for you to see such beautiful code, in every repo! Ha, just kidding, don't go snooping around though - there's a lot that I'm not proud of. 
 
