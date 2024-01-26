@@ -1,5 +1,5 @@
 
-![Internet not working gif](https://repository-images.githubusercontent.com/340932850/ad909f80-74ae-11eb-9e43-1d7fdd1d66a7)
+![Internet not working gif](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif)
 
 Hello, I'm Muhammad Abuzar, welcome to my Github. What a pleasure it must be for you to see such beautiful code, in every repo! Ha, just kidding, don't go snooping around though - there's a lot that I'm not proud of. 
 
