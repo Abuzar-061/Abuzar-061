@@ -12,7 +12,7 @@ So, I am a software engineer by trade currently working at [ContentArcade](https
 
 
 ```
-                         \\\\\\\\\\\\\\\
+                          /////////////\
                           \\\\\\\\\\\\\\\
   -----------,-|           |C>   // )\\\\|
            ,','|          /    || ,'/////|
