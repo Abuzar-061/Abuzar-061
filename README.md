@@ -1,5 +1,5 @@
 
-![Internet not working gif](https://media.giphy.com/media/F2J6D7kBLMeyY/giphy.gif)
+![Internet not working gif](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif)
 
 Hello, Welcome to my Github. What a pleasure it must be for you to see such beautiful code, in every repo! Ha, just kidding, don't go snooping around though - there's a lot that I'm not proud of. 
 
