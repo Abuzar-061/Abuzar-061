@@ -1,5 +1,5 @@
 
-![Internet not working gif]([https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif](https://media.giphy.com/media/F2J6D7kBLMeyY/giphy.gif))
+![Internet not working gif](https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif](https://media.giphy.com/media/F2J6D7kBLMeyY/giphy.gif))
 
 Hello, Welcome to my Github. What a pleasure it must be for you to see such beautiful code, in every repo! Ha, just kidding, don't go snooping around though - there's a lot that I'm not proud of. 
 
