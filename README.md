@@ -16,7 +16,7 @@ So, I am a software engineer by trade currently working at CONTENT-ARCADE predom
 
 
 
-- 🔭 I’m currently working on **VITRON Project**
+- 🔭 I’m currently working on **VITRON**
 
 - 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Improve your grammar via grammarin!
 
