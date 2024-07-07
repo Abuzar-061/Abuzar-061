@@ -20,9 +20,9 @@ So, I am a software engineer by trade currently working at CONTENT-ARCADE predom
 
 - 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Improve your grammar via grammarin!
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Data Sturctures & Algorithms**
 
-- 💬 Ask me about **Python , Angular**
+- 💬 Ask me about **Python , Flask**
 
 - 📫 How to reach me **notabuzar@gmail.com**
 
