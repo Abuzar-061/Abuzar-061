@@ -20,7 +20,7 @@ So, I am a software engineer by trade currently working at CONTENT-ARCADE predom
 
 - 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Improve your grammar via grammarin!
 
-- 🌱 I’m currently learning **Data Sturctures & Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **Python , Flask**
 
