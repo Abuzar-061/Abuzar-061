@@ -5,7 +5,7 @@
 <h1 align="center" >Hi 👋, I'm Muhammad Abuzar</h1>
 <p align="center">
 Welcome to my Github. What a pleasure it must be for you to see such beautiful code, in every repo! Ha, just kidding, don't go snooping around though - there's a lot that I'm not proud of.
-So, I am a software engineer by trade currently working at CONTENT-ARCADE predominantly writing Python and Angular.
+So, I am a software engineer by trade currently working at CONTENT-ARCADE predominantly writing Python Code.
 </p>
 
 <br>
@@ -20,13 +20,13 @@ So, I am a software engineer by trade currently working at CONTENT-ARCADE predom
 
 - 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Improve your grammar via grammarin!
 
-- 🌱 I’m currently learning **Data Structure & Algorithms**
+- 🌱 I’m currently learning **Data Sciences**
 
 - 💬 Ask me about **Python , Flask**
 
 - 📫 How to reach me **notabuzar@gmail.com**
 
-- 💬 Portfolio Website [DEV.com](https://abuzar-061.github.io/CV/Project-Portfolio.html)
+- 💬 Portfolio Website [DEVIN.com](https://abuzar-061.github.io/CV/Project-Portfolio.html)
 
 - ⚡ Fun fact **I am Funny**
 
