@@ -16,7 +16,7 @@ So, I am a software engineer by trade currently working at CONTENT-ARCADE predom
 
 
 
-- 🔭 I’m currently working on **Predicting The Weather**
+- 🔭 I’m currently working on **Eye Disease Detection**
 
 - 🏃‍♂️ Co-creator of [grammanin.com](https://www.grammarin.com/) - Improve your grammar via grammarin!
 
