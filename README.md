@@ -24,6 +24,8 @@ So, I am a software engineer by trade currently working at Madina Group Of Indus
 
 - 🌱 I’m currently learning **Data Sciences**
 
+- 💻 Personal Project [Jarotech.online](https://jarotech.online/) - Create Digital Invoices with FBR POS 
+
 - 💬 Ask me about **Python , Flask**
 
 - 📫 How to reach me **notabuzar@gmail.com**
