@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/late-night-grind-anime-boy-working-under-pressure-intensely-works-illuminated-computer-screen-showing-clock-357820048.jpg?w=992)]
+(https://thumbs.dreamstime.com/b/late-night-grind-anime-boy-working-under-pressure-intensely-works-illuminated-computer-screen-showing-clock-357820048.jpg?w=992)
 
 <br>
 
