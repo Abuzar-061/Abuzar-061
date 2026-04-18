@@ -20,7 +20,7 @@ So, I am a software engineer by trade currently working at Madina Group Of Indus
 
 - 🔭 I’m currently working on **ERP SYSTEM FOR TUF**
 
-- 🏃‍♂️ Creator of [Grammarin](https://www.grammarin.com/) - [Project Management System](https://pms.tuf.edu.pk)
+- 🏃‍♂️ Creator of [Grammarin](https://www.grammarin.com/) - [PMS](https://pms.tuf.edu.pk)
 
 - 🌱 I’m currently learning **Data Sciences**
 
