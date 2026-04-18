@@ -30,8 +30,6 @@ So, I am a software engineer by trade currently working at Madina Group Of Indus
 
 - 📫 How to reach me **notabuzar@gmail.com**
 
-- 💬 Portfolio Website [DEVIN.com](https://abuzar-061.github.io/CV/Project-Portfolio.html)
-
 - ⚡ Fun fact **I am Funny**
 
 
