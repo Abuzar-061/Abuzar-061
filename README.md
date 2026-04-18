@@ -26,7 +26,7 @@ So, I am a software engineer by trade currently working at Madina Group Of Indus
 
 - 💻 Personal Project [Jarotech.online](https://jarotech.online/) - Create Invoices with FBR POS 
 
-- 💬 Ask me about **Python , Flask**
+- 💬 Ask me about **Python , Flask , Angular , Laravel , React , etc**
 
 - 📫 How to reach me **notabuzar@gmail.com**
 
