@@ -7,7 +7,7 @@
 <h1 align="center" >Hi 👋, I'm Muhammad Abuzar</h1>
 <p align="center">
 Welcome to my Github. What a pleasure it must be for you to see such beautiful code, in every repo! Ha, just kidding, don't go snooping around though - there's a lot that I'm not proud of.
-So, I am a software engineer by trade currently working at CONTENT-ARCADE predominantly writing Python Code.
+So, I am a software engineer by trade currently working at Madina Group Of Industries predominantly writing Laravel & Python Code.
 </p>
 
 <br>
