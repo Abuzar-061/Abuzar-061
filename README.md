@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/late-night-grind-anime-boy-working-under-pressure-intensely-works-illuminated-computer-screen-showing-clock-357820048.jpg" alt="masterhead" width="800"/>
+  <img src="https://i.pinimg.com/originals/4b/28/1b/4b281bf29cec0b997e7f1618bad94460.gif" alt="masterhead" width="800"/>
 </p>
 
 <br>
@@ -20,7 +20,7 @@ So, I am a software engineer by trade currently working at Madina Group Of Indus
 
 - 🔭 I’m currently working on **ERP SYSTEM FOR TUF**
 
-- 🏃‍♂️ Creator of [Grammarin](https://www.grammarin.com/) - [PMS](https://pms.tuf.edu.pk)
+- 🏃‍♂️ Creator of [Grammarin](https://www.grammarin.com/) - [PMS](https://pms.tuf.edu.pk) - [Jarotech](https://jarotech.online) 
 
 - 🌱 I’m currently learning **Data Sciences**
 
